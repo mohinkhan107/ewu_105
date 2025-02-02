@@ -1,2 +1,3 @@
 # ewu_105
-This is mt first git Repository.
+This is my first git Repository.
+Author Mohin khan
